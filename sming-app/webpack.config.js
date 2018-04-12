@@ -25,6 +25,18 @@ module.exports = {
         path: path.join(__dirname, 'dist'),
         filename: '[name].[chunkhash].js'
     },
+	optimization: {
+	  splitChunks: {
+	    cacheGroups: {
+	      vendor: {
+	        chunks: "initial",
+	        test: path.resolve(__dirname, "node_modules"),
+	        name: "vendor",
+	        enforce: true
+	      }
+	    }
+	  }
+	},
     module: {
         rules: [
             {
@@ -57,9 +69,6 @@ module.exports = {
     plugins: [
         new webpack.DefinePlugin({
             'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV)
-        }),
-        new webpack.optimize.CommonsChunkPlugin({
-            names: ['vendor', 'manifest']
         }),
         new CleanWebpackPlugin(['dist']),
         new HtmlWebpackPlugin({
