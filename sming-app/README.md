@@ -1,4 +1,4 @@
-#Sming Front SPA
+# Sming Front SPA
 
 ### Prerequisites
 * node 6.11.x or newer
