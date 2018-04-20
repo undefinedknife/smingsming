@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="500px" height="272px" viewBox="0 0 500 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="520px" height="266px" viewBox="0 0 520 266" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice</title>
+    <title>Slice 4</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#EB2965" x="104" y="35" width="32" height="160" rx="16"></rect>
-        <rect id="Rectangle" fill="#EB2965" x="208" y="35" width="32" height="160" rx="16"></rect>
-        <rect id="Rectangle" fill="#767FDA" x="312" y="39" width="32" height="128" rx="16"></rect>
-        <rect id="Rectangle" fill="#767FDA" x="364" y="57" width="32" height="128" rx="16"></rect>
-        <rect id="Rectangle" fill="#3194F8" x="416" y="23" width="32" height="116" rx="16"></rect>
-        <rect id="Rectangle" fill="#3194F8" x="416" y="207" width="32" height="56" rx="16"></rect>
-        <rect id="Rectangle" fill="#3194F8" x="468" y="7" width="32" height="265" rx="16"></rect>
-        <rect id="Rectangle" fill="#BD3CA2" x="260" y="49" width="32" height="160" rx="16"></rect>
-        <circle id="Oval" fill="#BD3CA2" cx="276" cy="23" r="16"></circle>
-        <rect id="Rectangle" fill="#EB2965" x="156" y="57" width="32" height="128" rx="16"></rect>
+    <g id="logo-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#EB2965" x="109" y="35" width="32" height="160" rx="16"></rect>
+        <rect id="Rectangle" fill="#EB2965" x="213" y="35" width="32" height="160" rx="16"></rect>
+        <rect id="Rectangle" fill="#767FDA" x="327" y="43" width="32" height="128" rx="16"></rect>
+        <rect id="Rectangle" fill="#767FDA" x="379" y="58" width="32" height="128" rx="16"></rect>
+        <rect id="Rectangle" fill="#3194F8" x="436" y="17" width="32" height="116" rx="16"></rect>
+        <rect id="Rectangle" fill="#3194F8" x="436" y="201" width="32" height="56" rx="16"></rect>
+        <rect id="Rectangle" fill="#3194F8" x="488" y="1" width="32" height="265" rx="16"></rect>
+        <rect id="Rectangle" fill="#BD3CA2" x="270" y="49" width="32" height="160" rx="16"></rect>
+        <circle id="Oval" fill="#BD3CA2" cx="286" cy="23" r="16"></circle>
+        <rect id="Rectangle" fill="#EB2965" x="161" y="57" width="32" height="128" rx="16"></rect>
         <rect id="Rectangle" fill="#FA652D" x="52" y="0" width="32" height="153" rx="16"></rect>
-        <rect id="Rectangle" fill="#FA652D" x="0" y="77" width="32" height="153" rx="16"></rect>
+        <rect id="Rectangle" fill="#FA652D" x="0" y="87" width="32" height="153" rx="16"></rect>
         <path d="" id="Path-2" stroke="#979797"></path>
     </g>
 </svg>
