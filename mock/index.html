@@ -15,7 +15,7 @@
             }
 
             body {
-                background-color: #ffffff;
+                background-color: #fcfcfc;
                 color: #000;
             }
 
@@ -24,42 +24,49 @@
                 top:0;
                 height: 50px;
                 width: 100%;
-                background-color: #ffffff;
-                box-shadow: 0 1px 1px #b8b8b8;
+                background-color: #fefefe;
+                box-shadow: 0 1px 1px #d7d7d7;
                 z-index: 1000;
             }
 
             #doc-content {
                 width: 100%;
                 margin-top: 50px;
-                background-color: #ffffff;
+                background-color: #fcfcfc;
             }
 
             #doc-footer {
                 position: fixed;
                 left:0.5%;
-                bottom: 0;
-                height: 60px;
+                bottom: -141px;
+                height: 200px;
                 width: 99%;
-                background-color: #FFF;
-                box-shadow: 0 -1px 1px #b8b8b8;
+                background-color: #fefefe;
+                box-shadow: 0 -1px 1px #d7d7d7;
                 border-radius: 20px 20px 0 0;
             }
 
             #logo {
                 position: absolute;
-                top: 15px;
+                top: 9px;
                 left: 10px;
             }
 
             #content-title {
                 position : absolute;
-                top: 15px;
                 right:  10px;
+            }
+
+            #content-title img {
+                width: 70px;
             }
 
             .svg-hamburger {
                 width: 40px;
+            }
+
+            .svg-logo {
+                width: 60px;
             }
 
             .svg-search {
@@ -70,7 +77,7 @@
                 border:0;
                 background: #FFF;
                 position: absolute;
-                top: 10px;
+                top: 17px;
                 left: 10px;
             }
 
@@ -78,7 +85,7 @@
                 border:0;
                 background: #FFF;
                 position: absolute;
-                top: 15px;
+                top: 12px;
                 right: 10px;
             }
 
@@ -125,15 +132,27 @@
             .list-ranking .song-title {
                 padding-right: 80px;
             }
+
+            #search-input {
+                border: 1px solid #d7d7dc;
+                border-radius: 6px;
+                display: block;
+                width: 60%;
+                margin: 16px auto 0;
+                height: 27px;
+                line-height: 20px;
+                padding: 2px 10px;
+                background: #f7f7f7;
+            }
         </style>
     </head>
     <body>
         <header id="doc-header">
             <div id="logo">
-                logo
+                <img src="img/logo.svg" class="svg-logo"/>
             </div>
             <div id="content-title">
-                melon
+                <img src="http://cdnimg.melon.co.kr/resource/mobile40/cds/common/image/melon.png" alt="melon"/>
             </div>
         </header>
         <div id="doc-content">
@@ -360,6 +379,7 @@
             <button class="button-hamburger">
                 <img src="img/hamburger.svg" alt="hamburger" class="svg-hamburger">
             </button>
+            <input type="search" id="search-input">
             <button class="button-search">
                 <img src="img/search.svg" alt="search" class="svg-search">
             </button>
