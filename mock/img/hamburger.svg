@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="222px" height="155px" viewBox="0 0 222 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="199px" height="133px" viewBox="0 0 199 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice 2</title>
+    <title>hamburger</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#5FC6FC" offset="0%"></stop>
-            <stop stop-color="#3194F8" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(94.000000, 21.500000) rotate(-90.000000) translate(-94.000000, -21.500000) " x="78" y="-69" width="32" height="181" rx="16"></rect>
-        <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(112.000000, 78.000000) rotate(-90.000000) translate(-112.000000, -78.000000) " x="96" y="-30" width="32" height="216" rx="16"></rect>
-        <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(102.000000, 135.500000) rotate(-90.000000) translate(-102.000000, -135.500000) " x="86" y="36" width="32" height="199" rx="16"></rect>
+    <defs></defs>
+    <g id="sming-symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,16.3013699 C2,8.40294139 8.4076678,2 16.3119266,2 L149.591743,2 C157.496002,2 163.90367,8.40294139 163.90367,16.3013699 C163.90367,24.1997983 157.496002,30.6027397 149.591743,30.6027397 L16.3119266,30.6027397 C8.4076678,30.6027397 2,24.1997983 2,16.3013699 Z" id="Rectangle" fill="#4D4D4D"></path>
+        <path d="M2,66.3013699 C2,58.4029414 8.4076678,52 16.3119266,52 L180.899083,52 C188.803341,52 195.211009,58.4029414 195.211009,66.3013699 C195.211009,74.1997983 188.803341,80.6027397 180.899083,80.6027397 L16.3119266,80.6027397 C8.4076678,80.6027397 2,74.1997983 2,66.3013699 Z" id="Rectangle" fill="#4D4D4D"></path>
+        <path d="M2,116.30137 C2,108.402941 8.4076678,102 16.3119266,102 L165.692661,102 C173.596919,102 180.004587,108.402941 180.004587,116.30137 C180.004587,124.199798 173.596919,130.60274 165.692661,130.60274 L16.3119266,130.60274 C8.4076678,130.60274 2,124.199798 2,116.30137 Z" id="Rectangle" fill="#4D4D4D"></path>
     </g>
 </svg>
