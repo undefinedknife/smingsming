@@ -24,7 +24,7 @@ body {
     width: 100%;
     margin-top: 50px;
     background-color: #fcfcfc;
-    height: 630px; /*디바이스 별 높이 값 계산 해서 설정 필요.*/
+    height: 580px; /*디바이스 별 높이 값 계산 해서 설정 필요.*/
     overflow-y: scroll;
 }
 
@@ -146,14 +146,20 @@ body {
     right: 50px;
 }
 
-#add {
+#google-add {
     border: 1px solid #4d4d4d;
     height: 40px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 62px;
+    background-color: #ffffff;
 }
 
 #carousel {
-    /*border: 1px solid #4d4d4d;*/
-    margin: 5px 0;
-    height: 20px;
     text-align: center;
+    position: fixed;
+    bottom: 104px;
+    width: 100%;
+    background-color: #ffffff;
 }

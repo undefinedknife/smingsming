@@ -98,6 +98,7 @@ body {
 .content-list-cover {
     width: 500px;
     position: absolute;
+    overflow: hidden;
     /*border: 1px solid red;*/
 }
 
@@ -158,21 +159,22 @@ body {
     right: 50px;
 }
 
-#add {
-    /*border: 1px solid red;*/
-    /*top:0;*/
-    left: 0;
+#google-add {
+    border: 1px solid #4d4d4d;
     height: 40px;
     position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 62px;
+    background-color: #ffffff;
 }
 
 #carousel {
-    /*border: 1px solid red;*/
-    left: 0;
-    margin: 5px 0;
-    height: 20px;
     text-align: center;
     position: fixed;
+    bottom: 104px;
+    width: 100%;
+    background-color: #ffffff;
 }
 
 .content-logo {
