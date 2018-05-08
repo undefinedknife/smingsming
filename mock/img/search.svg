@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="157px" viewBox="0 0 146 157" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="63.5" cy="63.5" r="61.5"></circle>
+    </defs>
+    <g id="sming-symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-2" fill="#4D4D4D" transform="translate(104.436773, 112.171113) rotate(48.000000) translate(-104.436773, -112.171113) " x="50.9367731" y="103.238418" width="107" height="17.8653888" rx="8"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Oval" fill="#4D4D4D" xlink:href="#path-1"></use>
+        <circle id="Oval-3" fill="#FFFFFF" mask="url(#mask-2)" cx="64" cy="64" r="41"></circle>
+    </g>
+</svg>
